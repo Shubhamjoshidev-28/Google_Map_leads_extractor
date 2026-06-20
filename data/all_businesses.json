@@ -1,0 +1,162 @@
+[
+    {
+        "business_name": "Haywire",
+        "address": "5901 Winthrop St Ste 110, Plano, TX 75024",
+        "phone": "(972) 781-9473",
+        "website": "http://haywirerestaurant.com/",
+        "rating": 4.5,
+        "reviews": 5523
+    },
+    {
+        "business_name": "Kanny's Restaurant and Lounge",
+        "address": "9780 Walnut St #138, Dallas, TX 75243",
+        "phone": "(469) 918-8188",
+        "website": "https://kannysrestaurant.com/catering-services/?v=28886f13f578",
+        "rating": 4.7,
+        "reviews": 939
+    },
+    {
+        "business_name": "Luke's",
+        "address": "2406 Lee St, Greenville, TX 75401",
+        "phone": null,
+        "website": "http://www.lukesonlee.com/",
+        "rating": 4.6,
+        "reviews": 159
+    },
+    {
+        "business_name": "Texas Cafe Diner Greenville",
+        "address": "5202 Wesley St, Greenville, TX 75402",
+        "phone": "(430) 242-1005",
+        "website": "http://www.texascafediner.com/",
+        "rating": 4.6,
+        "reviews": 678
+    },
+    {
+        "business_name": "Bavarian Grill",
+        "address": "3425 Premier Dr, Plano, TX 75023",
+        "phone": "(972) 881-0705",
+        "website": "http://www.bavariangrill.com/",
+        "rating": 4.5,
+        "reviews": 3134
+    },
+    {
+        "business_name": "Windmills Craftworks [Grandscape]",
+        "address": "5755 Grandscape Blvd, The Colony, TX 75056",
+        "phone": "(972) 777-6770",
+        "website": "https://windmills-usa.com/",
+        "rating": 4.5,
+        "reviews": 4249
+    },
+    {
+        "business_name": "Sister Restaurant",
+        "address": "2808 Greenville Ave, Dallas, TX 75206",
+        "phone": "(214) 888-8660",
+        "website": "http://www.sempresister.com/?utm_source=gmb_site&utm_medium=organic",
+        "rating": 4.6,
+        "reviews": 621
+    },
+    {
+        "business_name": "Nina's Brunch",
+        "address": "471 Marketplace Blvd, Forney, TX 75126",
+        "phone": "(469) 602-5050",
+        "website": "https://www.ninasbrunch.com/",
+        "rating": 4.9,
+        "reviews": 4111
+    },
+    {
+        "business_name": "Wings Over USA - Fate",
+        "address": "110 Greenhill Ln Ste 100, Rockwall, TX 75087",
+        "phone": "(469) 773-4006",
+        "website": "https://www.wingsoverusa.com/",
+        "rating": 4.6,
+        "reviews": 214
+    },
+    {
+        "business_name": "Quartino Ristorante",
+        "address": "5754 Grandscape Blvd Ste 200, The Colony, TX 75056",
+        "phone": "(469) 983-9100",
+        "website": "https://www.quartinoristorante.com/grandscape",
+        "rating": 4.6,
+        "reviews": 1776
+    },
+    {
+        "business_name": "SI Señor Tex-Mex Restaurant",
+        "address": "2807 TX-66, Caddo Mills, TX 75135",
+        "phone": "(903) 274-1101",
+        "website": "https://www.toasttab.com/si-senor2-2807-state-highway-66",
+        "rating": 4.8,
+        "reviews": 986
+    },
+    {
+        "business_name": "La Hacienda Ranch",
+        "address": "4110 Preston Rd, Frisco, TX 75034",
+        "phone": "(972) 335-2232",
+        "website": "https://laharanch.com/lahaciendaranchfrisco?utm_source=google",
+        "rating": 4.5,
+        "reviews": 4561
+    },
+    {
+        "business_name": "Old Damascus Mediterranean Restaurant",
+        "address": "1310 W Campbell Rd #108, Richardson, TX 75080",
+        "phone": "(214) 242-9700",
+        "website": "https://olddamascus.cloveronline.com/",
+        "rating": 4.7,
+        "reviews": 827
+    },
+    {
+        "business_name": "Lazy Dog Restaurant & Bar",
+        "address": "1851 N Central Expy, Allen, TX 75013",
+        "phone": "(469) 393-4119",
+        "website": "https://lazydogrestaurants.com/pages/allen-tx",
+        "rating": 4.5,
+        "reviews": 3726
+    },
+    {
+        "business_name": "Bucky's Cafe",
+        "address": "6177 2803, 2803 TX-66, Caddo Mills, TX 75135",
+        "phone": "(903) 527-4703",
+        "website": "https://buckyscafe.com/",
+        "rating": 4.7,
+        "reviews": 1091
+    },
+    {
+        "business_name": "Umi Umi",
+        "address": "5850 K Ave #400, Plano, TX 75074",
+        "phone": "(469) 468-7945",
+        "website": "https://umiumiplano.com/",
+        "rating": 4.8,
+        "reviews": 421
+    },
+    {
+        "business_name": "Onassis Greek Taphouse + Kitchen",
+        "address": "760 W Ralph Hall Pkwy #120, Rockwall, TX 75032",
+        "phone": "(469) 769-1251",
+        "website": "http://www.onassisrockwall.com/",
+        "rating": 4.5,
+        "reviews": 548
+    },
+    {
+        "business_name": "Tayta Peruvian Restaurant",
+        "address": "146 Town Pl, Fairview, TX 75069",
+        "phone": "(945) 287-4095",
+        "website": "https://taytaperu.com/?fbclid=IwY2xjawFWqohleHRuA2FlbQIxMAABHSTZyIoyUENp1NwGDN2N073Wahb-Is3-zNix8J8ijzKVgnYW54Ux5jXVqg_aem_YMiUAxNLp849sgyO1dBIDA",
+        "rating": 4.9,
+        "reviews": 433
+    },
+    {
+        "business_name": "Cattlemans Cafe",
+        "address": "120 W James St, Blue Ridge, TX 75424",
+        "phone": "(972) 752-5334",
+        "website": null,
+        "rating": 4.6,
+        "reviews": 872
+    },
+    {
+        "business_name": "Ferah Tex-Med Kitchen",
+        "address": "690 Beebalm Ln, Garland, TX 75040",
+        "phone": "(972) 256-8971",
+        "website": "https://www.ferahtexmed.com/garland",
+        "rating": 4.7,
+        "reviews": 1062
+    }
+]
