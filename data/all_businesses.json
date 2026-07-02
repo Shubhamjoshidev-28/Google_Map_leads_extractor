@@ -158,5 +158,1229 @@
         "website": "https://www.ferahtexmed.com/garland",
         "rating": 4.7,
         "reviews": 1062
+    },
+    {
+        "business_name": "Good Chef Restaurant",
+        "address": "11459 SW 40th St, Miami, FL 33165",
+        "phone": "(305) 223-2827",
+        "website": "https://www.goodchef11459.com/",
+        "rating": 4.9,
+        "reviews": 1237
+    },
+    {
+        "business_name": "Korner67",
+        "address": "6769 Main St, Miami Lakes, FL 33014",
+        "phone": "(305) 280-0910",
+        "website": "https://www.korner67.com/",
+        "rating": 4.9,
+        "reviews": 3237
+    },
+    {
+        "business_name": "The Knife Parrilla Argentina - Doral - Argentinian Steakhouse",
+        "address": "1455 NW 107th Ave, Doral, FL 33172",
+        "phone": "(786) 866-3999 ext. 2",
+        "website": "https://thekniferestaurantus.com/",
+        "rating": 4.5,
+        "reviews": 9241
+    },
+    {
+        "business_name": "CVI.CHE 105",
+        "address": "7535 N Kendall Dr #5000, Miami, FL 33156",
+        "phone": "(786) 577-3433",
+        "website": "https://www.ceviche105.com/",
+        "rating": 5,
+        "reviews": 39544
+    },
+    {
+        "business_name": "Bocas House",
+        "address": "10200 NW 25th St #101, Doral, FL 33172",
+        "phone": "(786) 401-7071",
+        "website": "https://bocashouse.com/bocashousedoral?utm_source=google",
+        "rating": 4.8,
+        "reviews": 18215
+    },
+    {
+        "business_name": "Miami to Brazil Rodizio",
+        "address": "15750 SW 56th St, Miami, FL 33185",
+        "phone": "(786) 536-5719",
+        "website": "http://www.miamitobrazilrodizio.com/",
+        "rating": 4.9,
+        "reviews": 17862
+    },
+    {
+        "business_name": "Francisca Charcoal Chicken & Meats | Doral",
+        "address": "10802 NW 58th St, Doral, FL 33178",
+        "phone": "(786) 542-1393",
+        "website": "https://franciscarestaurant.com/doral/",
+        "rating": 4.9,
+        "reviews": 29023
+    },
+    {
+        "business_name": "Good Chef Restaurant",
+        "address": "113 SW 107th Ave, Miami, FL 33174",
+        "phone": "(786) 763-2008",
+        "website": "https://www.goodchefmiami.com/",
+        "rating": 4.9,
+        "reviews": 4258
+    },
+    {
+        "business_name": "Moo! Arte en Carnes",
+        "address": "12737 SW 42nd St, Miami, FL 33175",
+        "phone": "(786) 558-4542",
+        "website": "https://moomiami.com/",
+        "rating": 4.9,
+        "reviews": 983
+    },
+    {
+        "business_name": "Le Patio - The tiniest cutest Restaurant in South Florida",
+        "address": "2401 NE 11th Ave, Wilton Manors, FL 33305",
+        "phone": "(954) 530-4641",
+        "website": "http://www.lepatiowiltonmanors.com/",
+        "rating": 4.7,
+        "reviews": 406
+    },
+    {
+        "business_name": "Craft American Eatery",
+        "address": "at CandleWood Suites Hotel, 5911 NW 36th St, Miami, FL 33166",
+        "phone": "(305) 381-5065",
+        "website": "http://craftamericaneatery.us/",
+        "rating": 4.7,
+        "reviews": 449
+    },
+    {
+        "business_name": "Luka Restaurant and Coffee",
+        "address": "11402 NW 41st St #112, Doral, FL 33178",
+        "phone": "(305) 477-2430",
+        "website": "http://lukarestaurant.com/",
+        "rating": 4.9,
+        "reviews": 10023
+    },
+    {
+        "business_name": "City Food Hall Doral (formerly Shoma Bazaar)",
+        "address": "9420 NW 41st St, Doral, FL 33178",
+        "phone": "(786) 410-4700",
+        "website": "https://cityfoodhalldoral.com/",
+        "rating": 4.4,
+        "reviews": 2484
+    },
+    {
+        "business_name": "Sancho Restaurant",
+        "address": "13202 SW 8th St, Miami, FL 33184",
+        "phone": "(305) 553-6886",
+        "website": "https://sanchorestaurantemiami.com/",
+        "rating": 4.8,
+        "reviews": 2908
+    },
+    {
+        "business_name": "El Toro Loco Steakhouse Tamiami",
+        "address": "13800 SW 8th St, Miami, FL 33184",
+        "phone": "(786) 717-7020",
+        "website": "http://eltoroloco.com/",
+        "rating": 4.9,
+        "reviews": 18648
+    },
+    {
+        "business_name": "Casa Mariano",
+        "address": "8200 NW 27th St Ste 106, Doral, FL 33122",
+        "phone": "(305) 809-0499",
+        "website": "https://www.casamariano.com/",
+        "rating": 4.7,
+        "reviews": 725
+    },
+    {
+        "business_name": "The Fatty Crab",
+        "address": "2000 NW 87th Ave #7, Doral, FL 33172",
+        "phone": "(786) 618-5183",
+        "website": "http://thefattycrab.com/",
+        "rating": 4.6,
+        "reviews": 4904
+    },
+    {
+        "business_name": "Pisco Y Nazca Ceviche Gastrobar",
+        "address": "8405 Mills Dr Ste 206, Kendall, FL 33183",
+        "phone": "(305) 630-3844",
+        "website": "https://piscoynazca.com/kendall-fl",
+        "rating": 4.8,
+        "reviews": 16341
+    },
+    {
+        "business_name": "Finka Table & Tap",
+        "address": "14690 SW 26th St, Miami, FL 33175",
+        "phone": "(305) 227-8818",
+        "website": "http://finkarestaurant.com/",
+        "rating": 4.4,
+        "reviews": 3349
+    },
+    {
+        "business_name": "KOW Restaurant",
+        "address": "14429 SW 42nd St, Miami, FL 33175",
+        "phone": "(786) 641-5186",
+        "website": "https://kowrestaurant.com/",
+        "rating": 4.6,
+        "reviews": 1221
+    },
+    {
+        "business_name": "Copper Door",
+        "address": "15 Leavy Drive, Bedford, NH 03110",
+        "phone": "(603) 488-2677",
+        "website": "https://www.copperdoor.com/",
+        "rating": 4.5,
+        "reviews": 3089
+    },
+    {
+        "business_name": "Revival Kitchen and Bar",
+        "address": "11 Depot St, Concord, NH 03301",
+        "phone": "(603) 715-5723",
+        "website": "https://www.revivalkitchennh.com/",
+        "rating": 4.7,
+        "reviews": 679
+    },
+    {
+        "business_name": "Granite Restaurant & Bar",
+        "address": "96 Pleasant St, Concord, NH 03301",
+        "phone": "(603) 227-9005",
+        "website": "https://www.thecentennialhotel.com/graniterestaurant",
+        "rating": 4.6,
+        "reviews": 323
+    },
+    {
+        "business_name": "T-BONES Great American Eatery",
+        "address": "404 S Main St, Concord, NH 03301",
+        "phone": "(603) 715-1999",
+        "website": "https://www.t-bones.com/",
+        "rating": 4.4,
+        "reviews": 1245
+    },
+    {
+        "business_name": "Cotton Restaurant",
+        "address": "75 Arms St, Manchester, NH 03101",
+        "phone": "(603) 622-5488",
+        "website": "http://cottonfood.com/",
+        "rating": 4.7,
+        "reviews": 1421
+    },
+    {
+        "business_name": "The Farmer's Kitchen",
+        "address": "444 NH-11, Farmington, NH 03835",
+        "phone": "(603) 755-9900",
+        "website": "http://farmerskitchen-nh.com/",
+        "rating": 4.8,
+        "reviews": 2085
+    },
+    {
+        "business_name": "The Common Man Concord",
+        "address": "1 Gulf St, Concord, NH 03301",
+        "phone": "(603) 228-3463",
+        "website": "https://www.thecman.com/common-man-concord/",
+        "rating": 4.4,
+        "reviews": 3246
+    },
+    {
+        "business_name": "Alexandra's Bistro",
+        "address": "15 Village St, Concord, NH 03303",
+        "phone": "(603) 565-5066",
+        "website": "http://alexandrasbistrollc.com/",
+        "rating": 4.8,
+        "reviews": 217
+    },
+    {
+        "business_name": "The Barley House Restaurant & Tavern",
+        "address": "132 N Main St, Concord, NH 03301",
+        "phone": "(603) 228-6363",
+        "website": "https://www.thebarleyhouse.com/",
+        "rating": 4.4,
+        "reviews": 2398
+    },
+    {
+        "business_name": "The Common Man Merrimack",
+        "address": "304 Daniel Webster Hwy, Merrimack, NH 03054",
+        "phone": "(603) 429-3463",
+        "website": "https://www.thecman.com/common-man-merrimack/",
+        "rating": 4.4,
+        "reviews": 2179
+    },
+    {
+        "business_name": "Laconia Local Eatery",
+        "address": "21 Veterans Square, Laconia, NH 03246",
+        "phone": "(603) 527-8007",
+        "website": "http://www.laconialocaleatery.com/",
+        "rating": 4.6,
+        "reviews": 456
+    },
+    {
+        "business_name": "Campo Enoteca",
+        "address": "969 Elm St, Manchester, NH 03101",
+        "phone": "(603) 625-0256",
+        "website": "http://www.campoenoteca.com/",
+        "rating": 4.6,
+        "reviews": 684
+    },
+    {
+        "business_name": "Red Blazer Restaurant & Pub",
+        "address": "72 Manchester St, Concord, NH 03301",
+        "phone": "(603) 224-4101",
+        "website": "http://www.theredblazer.com/",
+        "rating": 4.5,
+        "reviews": 2979
+    },
+    {
+        "business_name": "Tucker's",
+        "address": "80 South St, Concord, NH 03301",
+        "phone": "(603) 413-5884",
+        "website": "https://tuckersnh.com/",
+        "rating": 4.7,
+        "reviews": 1895
+    },
+    {
+        "business_name": "Beefside",
+        "address": "106 Manchester St, Concord, NH 03301",
+        "phone": "(603) 228-0208",
+        "website": "http://beefsidenh.com/",
+        "rating": 4.6,
+        "reviews": 2065
+    },
+    {
+        "business_name": "Union Oyster House",
+        "address": "41 Union St, Boston, MA 02108",
+        "phone": "(617) 227-2750",
+        "website": "http://www.unionoysterhouse.com/",
+        "rating": 4.3,
+        "reviews": 11042
+    },
+    {
+        "business_name": "Anatolia Mediterranean Restaurant",
+        "address": "2 Main St, Somersworth, NH 03878",
+        "phone": "(603) 841-5372",
+        "website": "http://www.anatolianh.com/",
+        "rating": 4.9,
+        "reviews": 827
+    },
+    {
+        "business_name": "Arethusa al tavolo",
+        "address": "828 Bantam Rd, Bantam, CT 06750",
+        "phone": "(860) 567-0043",
+        "website": "http://www.arethusaaltavolo.com/",
+        "rating": 4.7,
+        "reviews": 671
+    },
+    {
+        "business_name": "Lakehouse Tavern",
+        "address": "157 Main St, Hopkinton, NH 03229",
+        "phone": "(603) 746-1800",
+        "website": "https://lakehousetavern.com/",
+        "rating": 4.4,
+        "reviews": 795
+    },
+    {
+        "business_name": "Herons",
+        "address": "The Umstead Hotel and Spa, 100 Woodland Pond Dr, Cary, NC 27513",
+        "phone": "(919) 447-4200",
+        "website": "http://www.theumstead.com/",
+        "rating": 4.7,
+        "reviews": 860
+    },
+    {
+        "business_name": "Stanbury",
+        "address": "938 N Blount St, Raleigh, NC 27604",
+        "phone": "(919) 977-4321",
+        "website": "http://www.stanburyraleigh.com/",
+        "rating": 4.8,
+        "reviews": 1028
+    },
+    {
+        "business_name": "Little Bull",
+        "address": "810 N Mangum St, Durham, NC 27701",
+        "phone": "(919) 251-8989",
+        "website": "http://littlebullnc.com/",
+        "rating": 4.6,
+        "reviews": 495
+    },
+    {
+        "business_name": "Crawford and Son",
+        "address": "618 N Person St, Raleigh, NC 27604",
+        "phone": "(919) 307-4647",
+        "website": "http://www.crawfordandsonrestaurant.com/",
+        "rating": 4.7,
+        "reviews": 1074
+    },
+    {
+        "business_name": "The Fig Tree Restaurant",
+        "address": "1601 E 7th St, Charlotte, NC 28204",
+        "phone": "(704) 332-3322",
+        "website": "http://www.charlottefigtree.com/",
+        "rating": 4.7,
+        "reviews": 1133
+    },
+    {
+        "business_name": "Chef & the Farmer",
+        "address": "120 W Gordon St, Kinston, NC 28501",
+        "phone": "(252) 208-2433",
+        "website": "http://www.vivianhoward.com/",
+        "rating": 4.6,
+        "reviews": 1463
+    },
+    {
+        "business_name": "Death and Taxes",
+        "address": "105 W Hargett St, Raleigh, NC 27601",
+        "phone": "(984) 242-0218",
+        "website": "http://www.ac-restaurants.com/death-taxes/",
+        "rating": 4.6,
+        "reviews": 1037
+    },
+    {
+        "business_name": "The Fearrington House Restaurant - Relais & Chateaux",
+        "address": "230 Market St, Pittsboro, NC 27312",
+        "phone": "(919) 542-2121",
+        "website": "https://www.fearrington.com/the-fearrington-house-restaurant/",
+        "rating": 4.5,
+        "reviews": 295
+    },
+    {
+        "business_name": "HAWTHORNE & WOOD",
+        "address": "3140 Environ Way, Chapel Hill, NC 27514",
+        "phone": "(919) 240-4337",
+        "website": "http://hawthorneandwood.com/",
+        "rating": 4.7,
+        "reviews": 537
+    },
+    {
+        "business_name": "Voyce Bistro",
+        "address": "11 Market St, Wilmington, NC 28401",
+        "phone": "(910) 399-3552",
+        "website": null,
+        "rating": 5,
+        "reviews": 200
+    },
+    {
+        "business_name": "Firebirds Wood Fired Grill",
+        "address": "3200 Village Market Place, Morrisville, NC 27560",
+        "phone": "(919) 653-0111",
+        "website": "https://firebirdsrestaurants.com/morrisville",
+        "rating": 4.2,
+        "reviews": 1970
+    },
+    {
+        "business_name": "Singletree Heritage Kitchen",
+        "address": "136 Depot St # 101, Waynesville, NC 28786",
+        "phone": "(828) 246-9760",
+        "website": "http://www.singletreekitchen.com/",
+        "rating": 4.8,
+        "reviews": 344
+    },
+    {
+        "business_name": "Tall John's",
+        "address": "152 Montford Ave, Asheville, NC 28801",
+        "phone": "(828) 782-5514",
+        "website": "https://www.talljohns.com/?utm_source=google&utm_medium=google_business&utm_campaign=google_maps_and_google_business",
+        "rating": 4.8,
+        "reviews": 748
+    },
+    {
+        "business_name": "Poole's",
+        "address": "428 South McDowell St, Raleigh, NC 27601",
+        "phone": "(919) 832-4477",
+        "website": "http://ac-restaurants.com/pooles/",
+        "rating": 4.5,
+        "reviews": 1906
+    },
+    {
+        "business_name": "West End Kitchen",
+        "address": "23 Rectory St Ste B / C, Pittsboro, NC 27312",
+        "phone": "(919) 545-5505",
+        "website": "https://www.westendpittsboro.com/",
+        "rating": 4.8,
+        "reviews": 517
+    },
+    {
+        "business_name": "Restaurant Constance",
+        "address": "2200 Thrift Rd, Charlotte, NC 28208",
+        "phone": "(980) 549-1999",
+        "website": "https://restaurantconstance.com/",
+        "rating": 4.8,
+        "reviews": 298
+    },
+    {
+        "business_name": "Oakleaf",
+        "address": "310 E Main St, Carrboro, NC 27510",
+        "phone": "(984) 234-0054",
+        "website": "https://oakleafnc.com/",
+        "rating": 4.6,
+        "reviews": 459
+    },
+    {
+        "business_name": "Seasons 52",
+        "address": "4325 Glenwood Ave Suite 2100, Raleigh, NC 27612",
+        "phone": "(919) 787-3052",
+        "website": "https://www.seasons52.com/locations/nc/raleigh/raleigh/4547?cmpid=br:s52_ag:ie_ch:loc_ca:S52GMB_sn:gmb_gt:raleigh-nc-4547_pl:locurl_rd:1039",
+        "rating": 4.6,
+        "reviews": 2555
+    },
+    {
+        "business_name": "Delancey Tavern",
+        "address": "408 W Geer St, Durham, NC 27701",
+        "phone": "(919) 885-1196",
+        "website": "https://www.delanceytavern.com/",
+        "rating": 4.7,
+        "reviews": 48
+    },
+    {
+        "business_name": "Spoon River Artworks and Market",
+        "address": "263 Pamlico St, Belhaven, NC 27810",
+        "phone": "(252) 945-3899",
+        "website": "http://spoonrivernc.com/",
+        "rating": 4.8,
+        "reviews": 657
+    },
+    {
+        "business_name": "Taste of Texas",
+        "address": "10505 Katy Fwy, Houston, TX 77024",
+        "phone": "(713) 932-6901",
+        "website": "http://www.tasteoftexas.com/",
+        "rating": 4.7,
+        "reviews": 10851
+    },
+    {
+        "business_name": "Written by the Seasons",
+        "address": "380 Melba St, Dallas, TX 75208",
+        "phone": "(469) 580-1185",
+        "website": "http://www.writtenbytheseasons.com/",
+        "rating": 4.8,
+        "reviews": 1319
+    },
+    {
+        "business_name": "La Stella Cucina Verace",
+        "address": "2330 Flora St #150, Dallas, TX 75201",
+        "phone": "(469) 663-7800",
+        "website": "https://www.lastellatx.com/",
+        "rating": 4.8,
+        "reviews": 2610
+    },
+    {
+        "business_name": "The Woolworth",
+        "address": "1520 Elm St #201, Dallas, TX 75201",
+        "phone": "(214) 814-0588",
+        "website": "https://www.thewoolworthdallas.com/",
+        "rating": 4.9,
+        "reviews": 8984
+    },
+    {
+        "business_name": "Y.O. Ranch Steakhouse",
+        "address": "702 Ross Ave, Dallas, TX 75202",
+        "phone": "(214) 744-3287",
+        "website": "https://www.yoranchsteakhouse.com/",
+        "rating": 4.8,
+        "reviews": 12281
+    },
+    {
+        "business_name": "La Fisheria",
+        "address": "213 Milam St, Houston, TX 77002",
+        "phone": "(713) 802-1712",
+        "website": "http://www.lafisheriahtx.com/",
+        "rating": 4.8,
+        "reviews": 4817
+    },
+    {
+        "business_name": "Nancy's Hustle",
+        "address": "2704 Polk St A, Houston, TX 77003",
+        "phone": "(346) 571-7931",
+        "website": "http://nancyshustle.com/",
+        "rating": 4.7,
+        "reviews": 2221
+    },
+    {
+        "business_name": "JOEY Dallas",
+        "address": "8687 N Central Expy Ste 307, Dallas, TX 75225",
+        "phone": "(469) 945-5639",
+        "website": "https://joeyrestaurants.com/location/joey-dallas",
+        "rating": 4.9,
+        "reviews": 10345
+    },
+    {
+        "business_name": "3Eleven Kitchen and Cocktails",
+        "address": "311 N Market St #100, Dallas, TX 75202",
+        "phone": "(214) 744-1423",
+        "website": "https://3elevendallas.com/",
+        "rating": 4.8,
+        "reviews": 5577
+    },
+    {
+        "business_name": "Billy Can Can",
+        "address": "2386 Victory Park Ln, Dallas, TX 75219",
+        "phone": "(214) 296-2610",
+        "website": "http://www.billycancan.com/",
+        "rating": 4.7,
+        "reviews": 787
+    },
+    {
+        "business_name": "Silver Spur Steakhouse & Saloon",
+        "address": "115 W San Saba Ave, Menard, TX 76859",
+        "phone": "(325) 396-3200",
+        "website": "http://silverspurmenard.com/",
+        "rating": 4.6,
+        "reviews": 178
+    },
+    {
+        "business_name": "Brennan's Houston",
+        "address": "3300 Smith St, Houston, TX 77006",
+        "phone": "(713) 522-9711",
+        "website": "https://www.brennanshouston.com/",
+        "rating": 4.6,
+        "reviews": 3327
+    },
+    {
+        "business_name": "Texas Roadhouse",
+        "address": "1545 Street Rd, Bensalem, PA 19020",
+        "phone": "(215) 639-7427",
+        "website": "https://www.texasroadhouse.com/locations/pennsylvania/bensalem?utm_source=listing&utm_medium=search",
+        "rating": 4.5,
+        "reviews": 7987
+    },
+    {
+        "business_name": "Little Daisy",
+        "address": "1401 Elm St, Dallas, TX 75202",
+        "phone": "(469) 726-4121",
+        "website": "https://littledaisydallas.com/",
+        "rating": 4.7,
+        "reviews": 465
+    },
+    {
+        "business_name": "Foreign Grill",
+        "address": "401 Franklin St, Houston, TX 77002",
+        "phone": "(832) 977-4433",
+        "website": "https://www.foreigngrilltx.com/",
+        "rating": 4.7,
+        "reviews": 536
+    },
+    {
+        "business_name": "Vic & Anthony's Steakhouse",
+        "address": "1510 Texas Ave, Houston, TX 77002",
+        "phone": "(713) 228-1111",
+        "website": "https://www.vicandanthonys.com/location/houston/",
+        "rating": 4.6,
+        "reviews": 3781
+    },
+    {
+        "business_name": "Terrace 54 Bar + Table",
+        "address": "1709 Dryden Rd, Houston, TX 77030",
+        "phone": "(713) 730-2404",
+        "website": "https://terrace54.com/",
+        "rating": 4.6,
+        "reviews": 578
+    },
+    {
+        "business_name": "Brenner's Steakhouse",
+        "address": "10911 Katy Fwy, Houston, TX 77079",
+        "phone": "(713) 465-2901",
+        "website": "https://www.brennerssteakhouse.com/location/brenners-steakhouse/",
+        "rating": 4.5,
+        "reviews": 1649
+    },
+    {
+        "business_name": "Brenner's on the Bayou",
+        "address": "1 Birdsall St, Houston, TX 77007",
+        "phone": "(713) 868-4444",
+        "website": "https://www.brennerssteakhouse.com/location/brenners-on-the-bayou/",
+        "rating": 4.4,
+        "reviews": 3010
+    },
+    {
+        "business_name": "Zaytoona | Mediterranean Cuisine",
+        "address": "129 W 7th St, Hanford, CA 93230",
+        "phone": "(559) 530-3085",
+        "website": "http://zaytoonaonline.com/",
+        "rating": 4.5,
+        "reviews": 740
+    },
+    {
+        "business_name": "Kabab City",
+        "address": "240 12th Ave #111, Hanford, CA 93230",
+        "phone": "(559) 670-3788",
+        "website": "https://www.kababcityonline.com/",
+        "rating": 4.5,
+        "reviews": 124
+    },
+    {
+        "business_name": "Fugazzis",
+        "address": "601 W 7th St #4563, Hanford, CA 93230",
+        "phone": "(559) 587-4568",
+        "website": "https://www.fugazzisbistro.com/hanford",
+        "rating": 4.2,
+        "reviews": 687
+    },
+    {
+        "business_name": "Green Valley Cafe",
+        "address": "740 N 10th Ave, Hanford, CA 93230",
+        "phone": "(559) 583-1831",
+        "website": "http://www.greenvalleycafehanford.com/",
+        "rating": 4.7,
+        "reviews": 841
+    },
+    {
+        "business_name": "Valle Grullense",
+        "address": "901 W Lacey Blvd, Hanford, CA 93230",
+        "phone": "(559) 772-8045",
+        "website": "http://www.vallegrullenseca.com/",
+        "rating": 4.4,
+        "reviews": 1476
+    },
+    {
+        "business_name": "Mike's Grill",
+        "address": "1734 N 10th Ave, Hanford, CA 93230",
+        "phone": "(559) 585-1141",
+        "website": null,
+        "rating": 4.8,
+        "reviews": 706
+    },
+    {
+        "business_name": "The Meltdown",
+        "address": "1635 Glendale Ave, Hanford, CA 93230",
+        "phone": "(559) 582-3160",
+        "website": "https://themeltdown.com/?utm_source=G&utm_medium=organic&utm_campaign=DAC",
+        "rating": 3.7,
+        "reviews": 46
+    },
+    {
+        "business_name": "Off The Vine",
+        "address": "110 E 7th St, Hanford, CA 93230",
+        "phone": "(559) 410-8133",
+        "website": "http://eatotv.com/",
+        "rating": 4.3,
+        "reviews": 154
+    },
+    {
+        "business_name": "Irwin Indian Bistro",
+        "address": "522 N Irwin St, Hanford, CA 93230",
+        "phone": "(559) 583-8000",
+        "website": "https://irwinindianbistro.square.site/",
+        "rating": 4.9,
+        "reviews": 83
+    },
+    {
+        "business_name": "Mexico Lindo Grill",
+        "address": "128 S 11th Ave, Hanford, CA 93230",
+        "phone": "(559) 589-3552",
+        "website": null,
+        "rating": 4.5,
+        "reviews": 82
+    },
+    {
+        "business_name": "Sunshine Restaurant",
+        "address": "729 W Grangeville Blvd, Hanford, CA 93230",
+        "phone": "(559) 585-8683",
+        "website": "https://sunshinerestauranthanford.com/",
+        "rating": 4.3,
+        "reviews": 59
+    },
+    {
+        "business_name": "Castle Grill & Pizza",
+        "address": "594 S 11th Ave, Hanford, CA 93230",
+        "phone": "(559) 530-3522",
+        "website": "https://castle-grill.square.site/s/order",
+        "rating": 4.7,
+        "reviews": 309
+    },
+    {
+        "business_name": "Plan B Taphouse",
+        "address": "129 W 5th St, Hanford, CA 93230",
+        "phone": "(559) 707-2941",
+        "website": "http://planbtaphouse.com/",
+        "rating": 4.7,
+        "reviews": 240
+    },
+    {
+        "business_name": "Black Bear Diner Hanford",
+        "address": "1790 W Lacey Blvd, Hanford, CA 93230",
+        "phone": "(559) 584-8278",
+        "website": "https://blackbeardiner.com/location/hanford/",
+        "rating": 4.4,
+        "reviews": 2232
+    },
+    {
+        "business_name": "Mariscos El Barba Negra",
+        "address": "2459 N 10th Ave, Hanford, CA 93230",
+        "phone": "(559) 587-5047",
+        "website": "https://www.facebook.com/profile.php?id=100093978434617&mibextid=LQQJ4d",
+        "rating": 4.6,
+        "reviews": 223
+    },
+    {
+        "business_name": "CornerStone Cafe",
+        "address": "312 W 7th St #103, Hanford, CA 93230",
+        "phone": "(559) 309-7414",
+        "website": "http://cornerstonecafehanford.com/",
+        "rating": 4.9,
+        "reviews": 40
+    },
+    {
+        "business_name": "Star Restaurant",
+        "address": "122 W 6th St, Hanford, CA 93230",
+        "phone": "(559) 584-7276",
+        "website": null,
+        "rating": 4.4,
+        "reviews": 458
+    },
+    {
+        "business_name": "La Fiesta Restaurant Bar",
+        "address": "106 N Green St, Hanford, CA 93230",
+        "phone": "(559) 583-8775",
+        "website": "https://lafiesta559.net/",
+        "rating": 4.1,
+        "reviews": 1185
+    },
+    {
+        "business_name": "Chalio's Hanford",
+        "address": "133 N 11th Ave, Hanford, CA 93230",
+        "phone": "(559) 587-5024",
+        "website": null,
+        "rating": 4,
+        "reviews": 1087
+    },
+    {
+        "business_name": "Miguel's Flaming Grill",
+        "address": "300 E St, Lemoore, CA 93245",
+        "phone": "(559) 817-2486",
+        "website": null,
+        "rating": 4.9,
+        "reviews": 12
+    },
+    {
+        "business_name": "Twisted Indian Street Food",
+        "address": "236 Heinlen St, Lemoore, CA 93245",
+        "phone": "(559) 633-8068",
+        "website": "https://twistedindianstreetfood.com/",
+        "rating": 4.7,
+        "reviews": 236
+    },
+    {
+        "business_name": "The Vineyard Restaurant",
+        "address": "819 E Bush St, Lemoore, CA 93245",
+        "phone": "(559) 924-1988",
+        "website": "http://www.thevineyardlemoore.com/",
+        "rating": 4.1,
+        "reviews": 688
+    },
+    {
+        "business_name": "Kusina Grill House",
+        "address": "142 W D St, Lemoore, CA 93245",
+        "phone": "(559) 925-1891",
+        "website": "https://kusinagrillhouseca.com/",
+        "rating": 4.7,
+        "reviews": 42
+    },
+    {
+        "business_name": "Chicas",
+        "address": "329 Fox St, Lemoore, CA 93245",
+        "phone": "(559) 997-1200",
+        "website": "https://chicasca.top/",
+        "rating": 4.7,
+        "reviews": 173
+    },
+    {
+        "business_name": "Panchito’s Taquería",
+        "address": "25 S 19 1/2 Ave, Lemoore, CA 93245",
+        "phone": "(559) 924-4190",
+        "website": "https://panchitostaqueria.net/",
+        "rating": 4.5,
+        "reviews": 276
+    },
+    {
+        "business_name": "Pad Thai",
+        "address": "75 W Hanford Armona Rd Ste a, Lemoore, CA 93245",
+        "phone": "(559) 925-7959",
+        "website": "https://www.padthailemooreorder.com/",
+        "rating": 4.6,
+        "reviews": 534
+    },
+    {
+        "business_name": "La Casa Del Colesterol",
+        "address": "309 W D St, Lemoore, CA 93245",
+        "phone": "(559) 997-1067",
+        "website": "https://lacasadelcolesterol.com/",
+        "rating": 4.2,
+        "reviews": 32
+    },
+    {
+        "business_name": "Reyna's Restaurant",
+        "address": "333 E St, Lemoore, CA 93245",
+        "phone": "(559) 925-9125",
+        "website": "https://www.facebook.com/ReynasRestaurantLemoore/",
+        "rating": 4.3,
+        "reviews": 574
+    },
+    {
+        "business_name": "Zeny's Restaurant",
+        "address": "352 W D St, Lemoore, CA 93245",
+        "phone": "(559) 924-4973",
+        "website": "https://zenys-filipino-cuisine.b12sites.com/",
+        "rating": 4.5,
+        "reviews": 499
+    },
+    {
+        "business_name": "Burger Shack",
+        "address": "718 N Lemoore Ave, Lemoore, CA 93245",
+        "phone": "(559) 997-1114",
+        "website": "https://tryburgershack.com/",
+        "rating": 4.5,
+        "reviews": 571
+    },
+    {
+        "business_name": "Las Espuelas",
+        "address": "55 E D St A, Lemoore, CA 93245",
+        "phone": "(559) 924-2814",
+        "website": null,
+        "rating": 4.3,
+        "reviews": 662
+    },
+    {
+        "business_name": "GOTTIS KITCHEN",
+        "address": "555 College Ave student union 900, Lemoore, CA 93245",
+        "phone": "(559) 925-3560",
+        "website": null,
+        "rating": 5,
+        "reviews": 5
+    },
+    {
+        "business_name": "Bird Street Brewing",
+        "address": "242 Heinlen St, Lemoore, CA 93245",
+        "phone": "(559) 423-7748",
+        "website": "http://www.birdstreetbrewing.com/",
+        "rating": 4.9,
+        "reviews": 62
+    },
+    {
+        "business_name": "Señor Pancho's",
+        "address": "1250 N Lemoore Ave, Lemoore, CA 93245",
+        "phone": "(559) 924-8121",
+        "website": null,
+        "rating": 4.2,
+        "reviews": 288
+    },
+    {
+        "business_name": "White Top Restaurant",
+        "address": "1110 W D St, Lemoore, CA 93245",
+        "phone": "(559) 924-3887",
+        "website": "https://whitetoprestaurant.com/",
+        "rating": 4.2,
+        "reviews": 422
+    },
+    {
+        "business_name": "Chubby's Diner",
+        "address": "855 N Lemoore Ave #170, Lemoore, CA 93245",
+        "phone": "(559) 925-8889",
+        "website": null,
+        "rating": 4.3,
+        "reviews": 309
+    },
+    {
+        "business_name": "La Parrilla Mexican Grill & Taqueria",
+        "address": "150 E Hanford Armona Rd, Lemoore, CA 93245",
+        "phone": "(559) 817-5240",
+        "website": null,
+        "rating": 4.4,
+        "reviews": 492
+    },
+    {
+        "business_name": "Valle Grullense Lemoore",
+        "address": "850 E D St, Lemoore, CA 93245",
+        "phone": "(559) 633-8820",
+        "website": null,
+        "rating": 3.8,
+        "reviews": 133
+    },
+    {
+        "business_name": "Skye Lemoore",
+        "address": "219 E St, Lemoore, CA 93245",
+        "phone": "(559) 633-3133",
+        "website": null,
+        "rating": 4.2,
+        "reviews": 65
+    },
+    {
+        "business_name": "Namino Poway",
+        "address": "12636 Poway Rd #8, Poway, CA 92064",
+        "phone": "(858) 229-3742",
+        "website": "http://www.naamino.com/",
+        "rating": 4.9,
+        "reviews": 520
+    },
+    {
+        "business_name": "Villa Capri Trattoria & Wine Bar",
+        "address": "14771 Pomerado Rd, Poway, CA 92064",
+        "phone": "(858) 391-9400",
+        "website": "http://villacapripoway.com/",
+        "rating": 4.6,
+        "reviews": 528
+    },
+    {
+        "business_name": "Brigantine Seafood & Oyster Bar",
+        "address": "13445 Poway Rd, Poway, CA 92064",
+        "phone": "(858) 486-3066",
+        "website": "http://www.brigantine.com/",
+        "rating": 4.4,
+        "reviews": 1346
+    },
+    {
+        "business_name": "Hamburger Factory Family Restaurant",
+        "address": "14122 Midland Rd, Poway, CA 92064",
+        "phone": "(858) 486-4575",
+        "website": "https://www.hamburgerfactory.com/",
+        "rating": 4.4,
+        "reviews": 1785
+    },
+    {
+        "business_name": "Luna's LUNpias Filipino Fusion Eatery",
+        "address": "14034 Poway Rd Ste c, Poway, CA 92064",
+        "phone": "(858) 883-4277",
+        "website": "http://lunaslunpias.com/",
+        "rating": 4.8,
+        "reviews": 180
+    },
+    {
+        "business_name": "Cully's Restaurant",
+        "address": "13252 Poway Rd, Poway, CA 92064",
+        "phone": "(858) 748-1558",
+        "website": "https://www.cullyspoway.com/",
+        "rating": 4.4,
+        "reviews": 401
+    },
+    {
+        "business_name": "Board & Brew - Poway",
+        "address": "13501 Poway Rd, Poway, CA 92064",
+        "phone": "(760) 331-3757",
+        "website": "https://boardandbrew.com/locations/poway/",
+        "rating": 4.5,
+        "reviews": 245
+    },
+    {
+        "business_name": "Smokin J's BBQ",
+        "address": "14035 Midland Rd, Poway, CA 92064",
+        "phone": "(858) 463-3538",
+        "website": "https://www.smokinjsrealbbq.com/",
+        "rating": 4.6,
+        "reviews": 890
+    },
+    {
+        "business_name": "The Original Pancake House",
+        "address": "14905 Pomerado Rd, Poway, CA 92064",
+        "phone": "(858) 679-0186",
+        "website": "http://www.ophpoway.com/",
+        "rating": 4.6,
+        "reviews": 1414
+    },
+    {
+        "business_name": "The Hop Stop",
+        "address": "14055 Midland Rd, Poway, CA 92064",
+        "phone": "(858) 883-4645",
+        "website": "https://thehopstopsd.com/",
+        "rating": 4.5,
+        "reviews": 423
+    },
+    {
+        "business_name": "Victor's Kafe - Poway",
+        "address": "14057 Stowe Dr, Poway, CA 92064",
+        "phone": "(858) 668-1717",
+        "website": "http://victorskafe.xyz/",
+        "rating": 4.7,
+        "reviews": 206
+    },
+    {
+        "business_name": "Kaminski's BBQ & Sports Lounge",
+        "address": "12735 Poway Rd, Poway, CA 92064",
+        "phone": "(858) 748-1106",
+        "website": "http://www.kaminskisbbq.com/",
+        "rating": 4.2,
+        "reviews": 984
+    },
+    {
+        "business_name": "Luna Grill Poway",
+        "address": "14727 Pomerado Rd, Poway, CA 92064",
+        "phone": "(858) 679-5862",
+        "website": "https://order.lunagrill.com/?y_source=1_MTQ0NDgwODUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "rating": 4.7,
+        "reviews": 1313
+    },
+    {
+        "business_name": "Eat Your Heart Out II",
+        "address": "12600 Stowe Dr #2, Poway, CA 92064",
+        "phone": "(858) 486-7976",
+        "website": "https://eatyourheartoutii.onrender.com/",
+        "rating": 4.9,
+        "reviews": 212
+    },
+    {
+        "business_name": "Harney Poway",
+        "address": "12245 Poway Rd, Poway, CA 92064",
+        "phone": "(858) 883-4278",
+        "website": "https://www.harneypoway.com/",
+        "rating": 4.4,
+        "reviews": 75
+    },
+    {
+        "business_name": "Larry's Santorini Greek Food",
+        "address": "14149 Twin Peaks Rd #3, Poway, CA 92064",
+        "phone": "(858) 513-4210",
+        "website": "https://santorinipoway.com/menu.php",
+        "rating": 4.7,
+        "reviews": 229
+    },
+    {
+        "business_name": "Mainstream Bar & Grill",
+        "address": "13385 Poway Rd, Poway, CA 92064",
+        "phone": "(858) 486-6246",
+        "website": "http://www.mainstreampoway.net/",
+        "rating": 4.3,
+        "reviews": 962
+    },
+    {
+        "business_name": "The Grillery",
+        "address": "14077 Stowe Dr, Poway, CA 92064",
+        "phone": "(858) 679-1881",
+        "website": "https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=c5b859dd-3285-4bf0-9437-a84147a0ee16",
+        "rating": 4.5,
+        "reviews": 62
+    },
+    {
+        "business_name": "Franco’s Flapjack Family Restaurant",
+        "address": "14034 Poway Rd, Poway, CA 92064",
+        "phone": "(858) 883-2516",
+        "website": "https://www.facebook.com/francosflapjackpoway/",
+        "rating": 4.5,
+        "reviews": 649
+    },
+    {
+        "business_name": "Poway Social House",
+        "address": "Walmart/DMV Center, 13437 Community Rd, Poway, CA 92064",
+        "phone": "(858) 842-4351",
+        "website": "https://powaysocialhouse.com/",
+        "rating": 4,
+        "reviews": 27
+    },
+    {
+        "business_name": "BainBow",
+        "address": "#3187, Street No 3, Ganesh Nagar, Ludhiana, Punjab 141008, India",
+        "phone": "+91 73073 73313",
+        "website": "https://bainbow.com/",
+        "rating": 4.8,
+        "reviews": 24
+    },
+    {
+        "business_name": "Ecomm Seller Support//Listing Service//Amazon Account Management//Sale Boost//ecommerce consultant//List products",
+        "address": "8129, 22 Feet Rd, Durga Puri, Haibowal Kalan, Ludhiana, Punjab 141001, India",
+        "phone": "+91 98554 54123",
+        "website": null,
+        "rating": 4.8,
+        "reviews": 53
+    },
+    {
+        "business_name": "DIGITAL UNICORN | Seo Company in Ludhiana",
+        "address": "Ground floor, Ansal plaza, Gurdev Nagar, Ludhiana, Punjab 141001, India",
+        "phone": "+91 62800 82011",
+        "website": "https://digitalunicorn.co/local-seo-ludhiana/",
+        "rating": 5,
+        "reviews": 10
+    },
+    {
+        "business_name": "GFE Business | Best Import Export Courses & Programs Institute (Ludhiana Punjab)",
+        "address": "5th Floor, Front Side, Feroze Gandhi Market, Sco 123, Jila Kacheri Area, Model Gram, Ludhiana, Punjab 141001, India",
+        "phone": "+91 95018 61437",
+        "website": "https://www.gfebusiness.org/import-export-in-ludhiana",
+        "rating": 5,
+        "reviews": 3
+    },
+    {
+        "business_name": "Anurag Puri SEO Expert - (GMB) Google My Business Services in Ludhiana",
+        "address": "337, opp. Hotel Silver Stone, D-Block, Model Town Extension, Model Town, Ludhiana, Punjab 141002, India",
+        "phone": "+91 99882 44551",
+        "website": "https://punjabit.co/",
+        "rating": 5,
+        "reviews": 2
+    },
+    {
+        "business_name": "𝗣𝗿𝗮𝗴𝘆𝗮𝘄𝗮𝗿𝗲 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗰𝘀 𝗣𝘃𝘁. 𝗟𝘁𝗱- Best IT Company in Ludhiana",
+        "address": "4th Floor, Golden Plaza, The Mall Rd, adjoining Arora Neuro Centre, Koh - E - Fiza, Ludhiana, Punjab 141001, India",
+        "phone": "+91 161 464 0060",
+        "website": "https://www.pragyaware.com/",
+        "rating": 3.7,
+        "reviews": 71
+    },
+    {
+        "business_name": "International Marketing Corporation Pvt. Ltd.",
+        "address": "IMC Bhawan, Inside Guru Nanak Dev Bhawan, Bharat Nagar, Chowk, Ludhiana, Punjab 141001, India",
+        "phone": "+91 98098 43098",
+        "website": "https://imcbusiness.com/",
+        "rating": 4.2,
+        "reviews": 69
+    },
+    {
+        "business_name": "𝐆𝐥𝐨𝐛𝐚𝐥 𝐕𝐢𝐞𝐰 𝐈𝐧𝐝𝐢𝐚 - Best Google Trusted Agency in Ludhiana| Advertising Agency | Digital Marketing Agency in Ludhiana",
+        "address": "Sky Land Tower, 506, Feroz Gandhi Market, Ludhiana, Punjab 141008, India",
+        "phone": "+91 76268 90635",
+        "website": "http://globalviewindia.in/",
+        "rating": 4.6,
+        "reviews": 94
+    },
+    {
+        "business_name": "Business Career Consultation - Dr.Vivek Bindra | Bada Business",
+        "address": "Gurudwara Road, Golden Park Rd, New Janta Nagar, Ludhiana, Punjab 141003, India",
+        "phone": "+91 77078 47118",
+        "website": "https://www.badabusiness.com/dd/BIPS013061/",
+        "rating": 5,
+        "reviews": 22
+    },
+    {
+        "business_name": "Business 360 Infotech",
+        "address": "Office No-B-4,BXV-39, 10, Grand Trunk Rd, opp. Ramgarhia Gurudwara Sahib, Ludhiana, Punjab 141008, India",
+        "phone": "+91 78884 93363",
+        "website": "http://b360infotech.com/",
+        "rating": 4.9,
+        "reviews": 34
+    },
+    {
+        "business_name": "𝗜𝗻𝗻𝗼𝘃𝗶 𝗚𝗹𝗼𝗯𝗮𝗹 𝗧𝗲𝗰𝗵",
+        "address": "H No. 3975, 1, Street No 3, near Samrala Chowk, Narinder Nagar, New Shivaji Nagar, Shivajinagar, Ludhiana, Punjab 141008, India",
+        "phone": "+91 78889 26109",
+        "website": "https://innoviglobaltech.com/",
+        "rating": 4.5,
+        "reviews": 2
+    },
+    {
+        "business_name": "Sikka Warehouse (Ludhiana, Punjab)",
+        "address": "129, Rani Jhansi Rd, Civil Lines, Ludhiana, Punjab 141001, India",
+        "phone": "+91 70884 96573",
+        "website": "https://sikkaandassociate.com/warehouse-leasing-company-in-ludhiana/",
+        "rating": 5,
+        "reviews": 2
+    },
+    {
+        "business_name": "DNA Growth - Business and Financial Consultants",
+        "address": "BXXVI, 01482, Model Gram, Ludhiana, Punjab 141001, India",
+        "phone": "+91 98886 67447",
+        "website": "https://www.dnagrowth.com/",
+        "rating": 4.4,
+        "reviews": 14
+    },
+    {
+        "business_name": "Centurus Technologies Private Limited | App & Web Development Company In Ludhiana",
+        "address": "PWD Market, Division No. 6, SCO 18-19, Dholewal Chowk, Ludhiana, Punjab 141003, India",
+        "phone": "+91 85668 17161",
+        "website": "https://centurustechnologies.com/",
+        "rating": 4.8,
+        "reviews": 5
+    },
+    {
+        "business_name": "BringBrandOn - Best Digital Marketing Agency In Ludhiana | SEO | SMM | PPC",
+        "address": "SCO 21, Modern Business Centre, LGF 02, Feroz Gandhi Market, Jila Kacheri Area, Model Gram, Ludhiana, Punjab 141001, India",
+        "phone": "+91 98889 03797",
+        "website": "https://bringbrandon.com/#utm_source=google&utm_medium=organic&utm_campaign=google_my_business",
+        "rating": 5,
+        "reviews": 73
+    },
+    {
+        "business_name": "Doric Multimedia Pvt Ltd (Tally Certified Partner)",
+        "address": "1st Floor, Gulati Market, Hargobind Marg Main Rd, Near CMC Chowk, Fatehganj, Ludhiana, Punjab 141008, India",
+        "phone": "+91 161 504 9876",
+        "website": "https://doricmultimedia.com/",
+        "rating": 4.8,
+        "reviews": 79
     }
 ]

@@ -4,7 +4,7 @@ from google_sheet_writer import google_sheet_writer
 from json_file_manager import json_file_manager
 
 
-extractor("resturants in usa")
+extractor("businesses in ludiana")
 required_data()
 google_sheet_writer()
 json_file_manager()
